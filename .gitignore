@@ -1,8 +1,0 @@
-.env
-*.db
-__pycache__/
-.venv/
-.venv/
-.env
-*.db
-__pycache__/
